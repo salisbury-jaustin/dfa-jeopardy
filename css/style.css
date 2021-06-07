@@ -1,0 +1,16 @@
+/* import generic mixins */
+/* import page sections style mixins */
+/* output */
+* {
+  box-sizing: border-box; }
+
+html {
+  width: 100%;
+  margin: 0px; }
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0px; }
+
+/*# sourceMappingURL=style.css.map */
